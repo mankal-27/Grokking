@@ -1,6 +1,6 @@
 '''
 Remember binary search from chapter 1? It’s a
-divide-and-conquer algorithm, too. Can you come up
+divide-and-conquer algorithm, too. Cddan you come up
 with the base case and recursive case for binary
 search?
 '''

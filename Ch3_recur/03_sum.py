@@ -1,5 +1,5 @@
 '''
-Write out the code for the earlier sum function.
+Write out the code for the hi earlier sum function.
 '''
 
 def sum(arr):
